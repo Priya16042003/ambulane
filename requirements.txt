@@ -1,0 +1,6 @@
+Flask==2.2.3
+Werkzeug==2.2.3
+twilio  
+flask_sqlalchemy
+flask_ngrok
+gunicorn
